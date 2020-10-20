@@ -3,12 +3,14 @@
 ##### Telekommunisten Assembly
 
 Telekomumunisten have participated in CCC and Transmediale for
-many year. 
+many years. 
 
-This year with
+This year, with
 [37c3](https://events.ccc.de/2020/06/06/aktueller-stand-zum-37c3/)  and
-[Transmediale: Transformation](https://transmediale.de/content/ctm-announces-festival-theme-2021-transformation) facing the pandemic situation, it looks like these
-events will happen remotely, if at all.
+[Transmediale:
+Transformation](https://transmediale.de/content/ctm-announces-festival-theme-2021-transformation)
+facing the pandemic, it looks like these events will happen remotely, if at
+all.
 
 Having attended a few online conferences in the past few months,
 I've found the experience painful and mostly useless.
@@ -27,9 +29,10 @@ areas and objects and decorating yourself was easy as writing.
 Since we can also have links, these text environment can provide a core social
 baseline that links out to richer media without being constrained by it.
 
-I'm also reminded of the projects of Michelle Teran, Jeff Mann and Graham Smith
-that I participated over the past few decades, like LiveForm:Telekenics and
-others, that did so much more with the online space that we're seeing today.
+Also, these links don't just have to go to YouTube and Zoom, I'm also reminded
+of the projects of Michelle Teran, Jeff Mann and Graham Smith that
+I participated over the past few decades, like LiveForm:Telekenics and others,
+that did so much more with the online space that we're seeing today.
 
 This is my starter kit for playing around with the moo software. It is based on
 [toaststunt](https://github.com/lisdude/toaststunt) a fork of a fork of the
