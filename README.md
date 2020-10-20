@@ -45,7 +45,7 @@ original LambdaMoo from the 90s,
 [blightmud](https://github.com/LiquidityC/Blightmud) a mudclient, and
 [wetty](https://github.com/butlerx/wetty) a javascript ssh client.
 
-If you gave git installed and [docker](https://docker.com) running, you can run my kit if you clone this repo, cd into it and type:
+If you have git installed and [docker](https://docker.com) running, you can run my kit if you clone this repo, cd into it and type:
 
 ```
 ./moo
