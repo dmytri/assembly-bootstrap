@@ -41,7 +41,7 @@ do something better.
 
 This is my starter kit for playing around with the moo software. It is based on
 [toaststunt](https://github.com/lisdude/toaststunt) a fork of a fork of the
-original LambdaMoo from the 90s,
+original [LambdaMoo](https://en.wikipedia.org/wiki/LambdaMOO) from the 90s,
 [blightmud](https://github.com/LiquidityC/Blightmud) a mudclient, and
 [wetty](https://github.com/butlerx/wetty) a javascript ssh client.
 
