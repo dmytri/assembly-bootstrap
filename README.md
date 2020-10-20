@@ -1,4 +1,4 @@
-### A Moo Setup for the Telekommunisten Assembly
+### A MOO Setup for the Telekommunisten Assembly
 
 ##### Telekommunisten Assembly
 
@@ -6,25 +6,23 @@ Telekomumunisten have participated in CCC and Transmediale for
 many years. 
 
 This year, with
-[37c3](https://events.ccc.de/2020/06/06/aktueller-stand-zum-37c3/)  and
-[Transmediale:
-Transformation](https://transmediale.de/content/ctm-announces-festival-theme-2021-transformation)
-facing the pandemic, it looks like these events will happen remotely, if at
-all.
+[37c3](https://events.ccc.de/2020/06/06/aktueller-stand-zum-37c3/) and
+[Transmediale Transformation](https://transmediale.de/) facing the pandemic,
+it looks like these events will happen remotely, if at all.
 
-Having attended a few online conferences in the past few months,
-I've found the experience painful and mostly useless.
+Having attended a few online conferences in the past few months, I've found the
+experience painful and mostly useless.
 
 This is odd, since we've been doing interesting things online for decades now.
 
 Trying to engage with bad online experiences based on commercial conferencing
-platforms and bulky web technology, made me remember the days of LambdaMoo, and
+platforms and bulky web technology, made me remember the days of LambdaMOO, and
 how fun and inventive these user-built interactive text environments where.
 
 Maybe it was simply easier when it was simpler. You had to learn weird
 commands, and type help a lot, but since it was all text, the technical bar of
-entry was still low. Once you mastered some simple command making your own
-areas and objects and decorating yourself was easy as writing.
+entry was still low. Once you mastered some simple commands making your own
+areas and objects and decorating yourself was as easy as writing.
 
 Since we can also have links, these text environment can provide a core social
 baseline that links out to richer media without being constrained by it.
@@ -41,11 +39,12 @@ do something better.
 
 This is my starter kit for playing around with the moo software. It is based on
 [toaststunt](https://github.com/lisdude/toaststunt) a fork of a fork of the
-original [LambdaMoo](https://en.wikipedia.org/wiki/LambdaMOO) from the 90s,
+original [LambdaMOO](https://en.wikipedia.org/wiki/LambdaMOO) from the 90s,
 [blightmud](https://github.com/LiquidityC/Blightmud) a mudclient, and
 [wetty](https://github.com/butlerx/wetty) a javascript ssh client.
 
-If you have git installed and [docker](https://docker.com) running, you can run my kit if you clone this repo, cd into it and type:
+If you have git installed and [docker](https://docker.com) running, you can run
+my kit if you clone this repo, cd into it and type:
 
 ```
 ./moo
@@ -62,9 +61,10 @@ launch our assembly, which will be persistent and accessible to all.
 Any building you do in your version will not be part of our shared world, but
 it's good to play with and learn on until the persistent world is online.
 
-The way to learn is experiment, search the web for "LambdaMoo", this is a 30
+The way to learn is experiment, search the web for "LambdaMOO", this is a 30
 year old platform, there is a ton of history and information online, and yeah,
 type help a lot and read what it says on the screen.
 
-[Telekommunisten Discord](https://discord.com/invite/pQV97gY) server is a good place to ask for help for now.
+[Telekommunisten Discord](https://discord.com/invite/pQV97gY) server is a good
+place to ask for help for now.
 
