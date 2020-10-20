@@ -51,7 +51,7 @@ If you have git installed and [docker](https://docker.com) running, you can run 
 ./moo
 ```
 
-Once you it's up and running, you can open this link to connect: http://127.0.0.1:3000
+Once it's up and running, you can open this link to connect: http://127.0.0.1:3000
 
 You can also access it with telnet or a mudclient on port 7777
 
