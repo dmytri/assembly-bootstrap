@@ -15,7 +15,7 @@ all.
 Having attended a few online conferences in the past few months,
 I've found the experience painful and mostly useless.
 
-This is odd, since we've doing interesting things online for decades now.
+This is odd, since we've been doing interesting things online for decades now.
 
 Trying to engage with bad online experiences based on commercial conferencing
 platforms and bulky web technology, made me remember the days of LambdaMoo, and
