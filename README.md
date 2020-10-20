@@ -34,6 +34,10 @@ of the projects of Michelle Teran, Jeff Mann and Graham Smith that
 I participated over the past few decades, like LiveForm:Telekenics and others,
 that did so much more with the online space that we're seeing today.
 
+Meanwhile Baruch Gottlieb and I have been working hard to bring our participant
+focused approach to online sessions, and wishing these conference events could
+do something better.
+
 This is my starter kit for playing around with the moo software. It is based on
 [toaststunt](https://github.com/lisdude/toaststunt) a fork of a fork of the
 original LambdaMoo from the 90s,
