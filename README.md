@@ -32,7 +32,7 @@ baseline that links out to richer media without being constrained by it.
 Also, these links don't just have to go to YouTube and Zoom, I'm also reminded
 of the projects of Michelle Teran, Jeff Mann and Graham Smith that
 I participated over the past few decades, like
-[LiveForm:Telekenics](http://www.ubermatic.org/?p=191) and others, that did so
+[LiveForm:Telekinetics](http://www.ubermatic.org/?p=191) and others, that did so
 much more with the online space that we're seeing today.
 
 Meanwhile Baruch Gottlieb and I have been working hard to bring our participant
