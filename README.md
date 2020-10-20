@@ -1,4 +1,4 @@
-Z### A Moo Setup for the Telekommunisten Assembly
+### A Moo Setup for the Telekommunisten Assembly
 
 ##### Telekommunisten Assembly
 
@@ -39,18 +39,18 @@ If you gave git installed and [docker](https://docker.com) running, you can run 
 
 Once you it's up and running, you can open this link to connect: http://127.0.0.1:3000
 
-you cal also access it with telnet or a mudclient on port 7777
+You can also access it with telnet or a mudclient on port 7777
 
-This is only assessable on your own computer (127.0.0.1), and so only for
+This is only accessible on your own computer (127.0.0.1), and so only for
 yourself, however, the tricks you learn will be useful when Telekommunisten
 launch our assembly, which will be persistent and accessible to all.
 
 Any building you do in your version will not be part of our shared world, but
 it's good to play with and learn on until the persistent world is online.
 
-The way to learn is experiment, search the web for "LambdaMoo", this a 30 year
-old platform, there is a ton of history and information online, and yeah, type
-help a lot and read what it says on the screen.
+The way to learn is experiment, search the web for "LambdaMoo", this is a 30
+year old platform, there is a ton of history and information online, and yeah,
+type help a lot and read what it says on the screen.
 
 [Telekommunisten Discord](https://discord.com/invite/pQV97gY) server is a good place to ask for help for now.
 
