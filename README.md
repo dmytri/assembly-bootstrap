@@ -7,7 +7,7 @@ many years.
 
 This year, with
 [37c3](https://events.ccc.de/2020/06/06/aktueller-stand-zum-37c3/) and
-[Transmediale Transformation](https://transmediale.de/) facing the pandemic,
+[Transmediale](https://transmediale.de/) facing the pandemic,
 it looks like these events will happen remotely, if at all.
 
 Having attended a few online conferences in the past few months, I've found the
