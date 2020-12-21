@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [[ $1 == "--update" ]]; then 
+  sudo docker rm dmytri/assembly:latest
+fi
+
+sudo docker run --rm \
+  -p 0.0.0.0:7777:7777 \
+  -p 0.0.0.0:3000:3000 \
+  -v /etc/letsencrypt/archive/assembly.ydns.eu:/app/certs/ \
+  -v toaststunt_storage:/app/toaststunt/db:rw \
+  --name assembly dmytri/assembly:latest 
+
